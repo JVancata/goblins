@@ -1,3 +1,5 @@
+![simple game example](example.gif)
+
 # Credits
 
 This is a fork of a simple html5 canvas game from lostdecadegames. [Read the whole article here.](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
